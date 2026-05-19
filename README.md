@@ -22,9 +22,4 @@ Databases
  🏠 Based in Pimpri-Chinchwad, Pune, India
  💡 Passionate about building useful tech and real-world applications
 
-📫 Connect
- 
- 💼 LinkedIn — coming soon
-
-
 "Building things that actually work."

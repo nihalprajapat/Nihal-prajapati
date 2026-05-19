@@ -18,7 +18,7 @@ Databases
 
 📍 About Me
 
- 🎓 Polytechnic Student — Semester 4, Pune
+ 🎓 Polytechnic Student 
  🏠 Based in Pimpri-Chinchwad, Pune, India
  💡 Passionate about building useful tech and real-world applications
 

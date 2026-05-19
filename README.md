@@ -5,15 +5,15 @@ Hey, I'm Nihal Prajapati 👋
 🛠️ Skills
 Languages & Frameworks
 
- ● JavaScript / Node.js / React / Vite
+  ● JavaScript / Node.js / React / Vite
 
 Infrastructure & DevOps
 
- ● Linux (Ubuntu) · Nginx · Docker · DNS Management
+  ● Linux (Ubuntu) · Nginx · Docker · DNS Management
 
 Databases
 
- ● MariaDB / MySQL
+  ● MariaDB / MySQL
 —————————————————————————————————————————————
 
 📍 About Me

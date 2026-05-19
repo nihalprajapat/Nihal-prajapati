@@ -1,6 +1,6 @@
 Hey, I'm Nihal Prajapati 👋
 18-year-old developer from Pune, India — building real things that solve real problems.
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+—————————————————————————————————————————————
 🛠️ Skills
 Languages & Frameworks
 
@@ -13,7 +13,7 @@ Infrastructure & DevOps
 Databases
 
  ● MariaDB / MySQL
-———————————————————————————————————————————————————————————————————————————————————————————————————————————————— 
+—————————————————————————————————————————————
 
 📍 About Me
 
